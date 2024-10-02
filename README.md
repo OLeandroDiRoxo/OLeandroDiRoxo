@@ -1,6 +1,4 @@
-## OPA FI BÂO 👋
-**OLeandroDiRoxo/OLeandroDiRoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+## OPA FI BÃO
 - 🔭 I’m currently working on websites creation,and Javascript.
 - 🌱 I’m currently learning boooks.
 -  I'm very specialist in apresentatios.
